@@ -18,6 +18,10 @@ Getestet auf OS X 10.10, NixOS 16.03 und Ubuntu 14.04.
 
 (Alle weiteren Abhängigkeiten werden von Nix aufgelöst)
 
+## Lizenz
+
+Das Script zur Generierung der Wortliste (wortliste-generieren.sh) steht unter der [GPLv3](http://www.gnu.de/documents/gpl.de.html). LCC ist [CC-BY](https://creativecommons.org/licenses/by/4.0/) und DeReWo [CC-BY-NC](http://creativecommons.org/licenses/by-nc/3.0/deed.de) lizensiert.
+
 ## Quellen
 
 - [Digitales Wörterbuch der deutschen Sprache](http://www.dwds.de/) der [Berlin-Brandenburgischen Akademie der Wissenschaften](http://www.bbaw.de/)
